@@ -7,17 +7,17 @@
 
 ## 国内ChatGPT中文版镜像网站
 * https://www.yixiaai.com/ - 支持 GPT4、4o 以及 o1，支持 MJ 绘画
-* https://chat.lify.vip/ - 支持 GPT4、4o 以及 o1
-https://guide1.lanjing.ai/ - 支持 GPT4、4o
-https://cgn.lify.vip/- 支持 GPT4、4o 支持 MJ 绘画
-http://chat.forwardminded.xyz/
-https://yixiaai.cn/
-https://gezhe.com/
-http://www.gpt-smart.com/
-https://chat.mac89.com/
-https://front2.stargpt.top/#/chat
-https://chatgpt.ctfcode.com/#/register
-http://chat.niitcxl.cn
-https://dittin.com/
-https://chat.yokonsan.com/
-https://chat.douresources.com
+* https://chat.lify.vip/ - 支持 GPT4、4o、 o1、AI PPT
+* https://guide1.lanjing.ai/ - 支持 GPT4、4o
+* https://cgn.lify.vip/- 支持 GPT4、4o 支持 MJ 绘画
+* http://chat.forwardminded.xyz/
+* https://yixiaai.cn/
+* https://gezhe.com/
+* http://www.gpt-smart.com/
+* https://chat.mac89.com/
+* https://front2.stargpt.top/#/chat
+* https://chatgpt.ctfcode.com/#/register
+* http://chat.niitcxl.cn
+* https://dittin.com/
+* https://chat.yokonsan.com/
+* https://chat.douresources.com
